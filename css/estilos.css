@@ -239,6 +239,11 @@ nav a:hover{
     width: 50%; 
 }
 
+/*Sección Hobbies*/
+.seccion-hobbies p{
+    font-size: 22px;
+}
+
 /*Sección Formación*/
 
 .seccion-formacion{
@@ -248,7 +253,7 @@ nav a:hover{
 }
 .img-utn{
     display: flex;
-    height: 15%;
+    height: 10%;
     padding: 10px 0 0 10px;
     gap: 20px;
     align-items: center;
@@ -308,22 +313,6 @@ nav a:hover{
 #caja-hobbies{height: 720px;}
 */
 
-footer{
-    text-align: center;
-    background: #0078D4;
-    padding:40px;
-}
-
-/*Sección Hobbies*/
-.seccion-hobbies p{
-    font-size: 22px;
-}
-.copyright{
-    color:#FFFFFF;
-    font-size: 24px;
-    margin:20px;
-}
-
 /*Sección Contacto*/
 .contacto{
     display: flex;
@@ -377,5 +366,13 @@ footer{
 
 footer{
     background: #312e60;
+    text-align: center;
+    padding:40px;
+}
+
+.copyright{
+    color:#FFFFFF;
+    font-size: 24px;
+    margin:20px;
 }
 /*<a target="_blank" href="https://icons8.com/icon/akG4VRhAoSii/github">GitHub</a> icono de <a target="_blank" href="https://icons8.com">Icons8</a>*/
